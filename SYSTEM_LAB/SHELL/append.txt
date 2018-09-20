@@ -1,0 +1,16 @@
+Linux includes redirection commands for each stream. 
+These commands write standard output to a file. 
+If a non-existent file is targetted (either by a single-bracket or double-bracket command), 
+a new file with that name will be created prior to writing.
+
+Overwrite
+
+    > - standard output
+
+Commands with a double bracket do not overwrite the destination's existing contents.
+
+Append
+
+    >> - standard output
+
+

@@ -1,0 +1,6 @@
+32 17-19 14 3 * ls
+2/2 18 14 3 *  echo "hello"
+* * * * * echo "ASHWANI"
+56-57,0,42,47,48 17-19 14 MAR-JUN * mkdir test > a.txt
+*/2,13 19 14 3 *  echo "Ashu"
+00,2,3,19,21,36,32 19 13 3 WED  echo "asjnj"

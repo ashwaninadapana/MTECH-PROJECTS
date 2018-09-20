@@ -1,0 +1,16 @@
+HOW TO RUN:
+./client <server_port>
+./server <server_port> <client_port>
+
+1)Uses selective repeat flow control
+2)uses independent acknowledgement for each received segment
+3)initiate flow function starts sending segments 
+
+
+handleRetransmissions():  this handles retransmissions after handling 3 duplicate acknowledgements
+createClientSocket():  this creates client socket and server socket to create connection between client and server
+generateInitialSequenceNum(): this generates initial seq no or we can set it to 0 if we want to start relative sequence no
+sendSegment(): sends segment to server
+receiveSegment(): receives segment from server
+startTimerForHandShake(): starts timer for handshake
+markAckReceived(): marks the acknowledgement as received for received acknowledgement
