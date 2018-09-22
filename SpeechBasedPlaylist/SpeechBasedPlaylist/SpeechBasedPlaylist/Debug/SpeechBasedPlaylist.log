@@ -1,0 +1,143 @@
+﻿Build started 03-12-2017 02:37:40.
+     1>Project "c:\Users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\SpeechBasedPlaylist\SpeechBasedPlaylist.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\SpeechBasedPlaylist.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\SpeechBasedPlaylist.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\SpeechBasedPlaylist.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SpeechBasedPlaylist.cpp
+         SpeechBasedPlaylist.cpp
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\utility.h(82): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(48): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(76): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(80): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(113): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(116): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(141): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(146): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(246): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(251): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(269): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(274): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(288): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(291): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(297): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(310): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(326): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(356): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(362): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(373): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(377): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(394): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lbg.h(420): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(141): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(305): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(322): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(350): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(414): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(452): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(459): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(547): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(613): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(661): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(815): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(841): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\hmm.h(835): warning C4101: 'current' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(166): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(171): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(194): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(206): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(251): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(258): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(338): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(351): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(501): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(506): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(520): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(535): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(538): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(632): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(661): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(671): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\lpcprocessor.h(682): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\modelcreation.h(116): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\modelcreation.h(150): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\modelcreation.h(154): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\modelcreation.h(218): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(64): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(115): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(132): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(160): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(198): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(236): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(243): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(331): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\recordsplitter.h(397): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(47): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(52): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(69): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(74): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(91): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(96): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(118): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(137): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(224): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(226): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\speechbasedplaylist.cpp(267): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\sai\documents\visual studio 2010\projects\speechbasedplaylist\speechbasedplaylist\utility.h(88): warning C4715: 'Utility::calculateTokuraDistance' : not all control paths return a value
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SpeechBasedPlaylist.exe.embed.manifest.res" Debug\SpeechBasedPlaylist_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\Debug\SpeechBasedPlaylist.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SpeechBasedPlaylist.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\Debug\SpeechBasedPlaylist.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\Debug\SpeechBasedPlaylist.lib" /MACHINE:X86 Debug\SpeechBasedPlaylist.exe.embed.manifest.res
+         Debug\SpeechBasedPlaylist.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SpeechBasedPlaylist.exe.embed.manifest" /manifest Debug\SpeechBasedPlaylist.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SpeechBasedPlaylist.exe.embed.manifest.res" Debug\SpeechBasedPlaylist_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\Debug\SpeechBasedPlaylist.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SpeechBasedPlaylist.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\Debug\SpeechBasedPlaylist.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\Debug\SpeechBasedPlaylist.lib" /MACHINE:X86 Debug\SpeechBasedPlaylist.exe.embed.manifest.res
+         Debug\SpeechBasedPlaylist.obj
+         Debug\stdafx.obj
+         SpeechBasedPlaylist.vcxproj -> c:\users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\Debug\SpeechBasedPlaylist.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SpeechBasedPlaylist.unsuccessfulbuild".
+         Touching "Debug\SpeechBasedPlaylist.lastbuildstate".
+     1>Done Building Project "c:\Users\sai\documents\visual studio 2010\Projects\SpeechBasedPlaylist\SpeechBasedPlaylist\SpeechBasedPlaylist.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.31
